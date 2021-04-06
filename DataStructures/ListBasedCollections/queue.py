@@ -1,3 +1,4 @@
+# not efficient O(n) 
 class Queue(object):
     def __init__(self, head=None):
         self.storage = [head]
